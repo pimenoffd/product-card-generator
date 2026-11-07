@@ -1,0 +1,27 @@
+[
+  {
+    "id": "historical-manometer",
+    "input": {
+      "name": "Манометр показывающий DM 02",
+      "manufacturer": "Манотомь",
+      "specs": {
+        "диапазон измерений": "0–1,6 МПа",
+        "класс точности": "1,5",
+        "присоединение": "G1/2",
+        "диаметр корпуса": "100 мм"
+      },
+      "description": "Прибор предназначен для измерения избыточного давления."
+    },
+    "purpose": "Historical result with service text"
+  },
+  {
+    "id": "historical-laser",
+    "input": {
+      "name": "Лазерный дальномер RGK DL70",
+      "manufacturer": "RGK",
+      "specs": {},
+      "description": "лазерный дальномер"
+    },
+    "purpose": "Sparse feed input"
+  }
+]
