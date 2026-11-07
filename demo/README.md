@@ -9,5 +9,5 @@
 Проверка сохранённых результатов без API:
 
 ```bash
-python -m product_cards.evaluate --cases demo/cases.json --results demo/results.json
+python -m product_cards.evaluate --cases demo/cases.json --results demo/results.json --output evals/reports/demo-report.json
 ```
